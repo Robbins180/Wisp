@@ -143,7 +143,8 @@
   
     .pricing__container-card:nth-child(2) {
       transform: scale(1);
-      background: #242424;
+      background: linear-gradient(45deg, #ffb10a 0%, #ffea00 100%);
+      box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
       margin: 24px;
     }
   
